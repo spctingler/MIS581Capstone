@@ -81,3 +81,7 @@ DST_HOST_SRV_RERROR_RATE- % OF CONNECTIONS TO THE CURRENT HOST AND SPECIFIED SER
 CONNECTION TYPE
 
 OUTCOME
+
+References
+
+University of New Brunswick.  (n.d.).  NSL-KDD dataset.  https://www.unb.ca/cic/datasets/nsl.html
